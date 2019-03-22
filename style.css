@@ -1,0 +1,57 @@
+a {
+    color: aliceblue;
+}
+article {
+    margin: 50px 0 0 0;
+}
+img {
+    padding: 15px;
+}
+p {
+    padding-top: 15px;
+}
+.footHeight {
+    height: 20px;
+}
+.foot {
+    height: 60px;
+}
+.box {
+    border: 1px solid black;
+    height: 30px;
+}
+.mBox {
+    border: 1px solid black;
+    height: 120px;
+   /* margin-bottom: 15px; */
+}
+h4 {
+    padding-top: 15px;
+}
+h5 {
+    padding-top: 15px;
+}
+button {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.noPad {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.image {
+    border: 1px solid black;
+    background: url(https://via.placeholder.com/180x120?text=Im+Fancy);
+    display: flex;
+    align-items: flex-end;
+    height: 120px;
+    margin: 0px 15px 15px 0px;
+    padding: 0px;
+}
+.pBack {
+    background: #16A2B8;
+    width: 100%;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
